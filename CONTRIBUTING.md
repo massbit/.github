@@ -1,6 +1,6 @@
 # Contributing
 
-Collaboration are welcome for each one of my **public** projects.\
+Collaboration are welcome for each one of our **public** projects.\
 Just open a pull request and wait for code reviews or signal a problem by creating a new issue.
 
 ---
